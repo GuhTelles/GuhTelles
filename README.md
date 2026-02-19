@@ -1,16 +1,24 @@
-## Hi there 👋
+# Gustavo Telles 👋
 
-<!--
-**GuhTelles/GuhTelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GuhTelles&label=Profile%20views&color=0e75b6&style=flat" alt="GuhTelles" />
+</p>
 
-Here are some ideas to get you started:
+I am an **Information Systems student at FIAP** with a primary focus on backend development using **Java**, dedicated to problem-solving and writing clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about exploring complex systems and automation. Beyond coding, I am a **PC hardware and performance enthusiast**. I use Git to organize and manage all my academic and personal projects, ensuring a structured and efficient workflow.
+
+### 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Windows-11](https://img.shields.io/badge/Windows%2011-%230078d4.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuhTelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gustavo's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhTelles&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
+</p>
+
+---
+*"Always seeking performance, from hardware infrastructure to the lines of code."*
