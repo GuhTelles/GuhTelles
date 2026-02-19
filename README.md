@@ -12,7 +12,7 @@ I am passionate about exploring complex systems and automation. Beyond coding, I
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Windows-11](https://img.shields.io/badge/Windows%2011-%230078d4.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
 
 ### 📊 GitHub Stats
 <p align="left">
