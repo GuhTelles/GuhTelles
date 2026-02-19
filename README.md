@@ -1,8 +1,4 @@
-# Gustavo Telles 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GuhTelles&label=Profile%20views&color=0e75b6&style=flat" alt="GuhTelles" />
-</p>
+# Gustavo Telles
 
 I am an **Information Systems student at FIAP** with a primary focus on backend development using **Java**, dedicated to problem-solving and writing clean code.
 
